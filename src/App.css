@@ -1,0 +1,14 @@
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+
+body{
+  background-image: url(./assets/rain.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.form-group col-lg-12 mx-auto mb-0{
+  padding-bottom: 20px;
+  margin-bottom: 150px;
+}
